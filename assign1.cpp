@@ -2,7 +2,11 @@
 //Name : Sadhyoj.S.Hanwate
 //Assignment number : 1
 
-/*Consider a student database of SY COMP class (at least 15 records). Database contains different fields of every student like Roll No, Name and SGPA. a. Design a roll call list, arrange list of students according to roll numbers in ascending order using Insertion Sort b. Arrange list of students alphabetically using shell sort c. Arrange list of students to find out first ten toppers from a class using Radix sort.*/
+/*Consider a student database of SY COMP class (at least 15 records). Database contains different fields of every student 
+like Roll No, Name and SGPA. 
+a. Design a roll call list, arrange list of students according to roll numbers in ascending order using Insertion Sort 
+b. Arrange list of students alphabetically using shell sort 
+c. Arrange list of students to find out first ten toppers from a class using Radix sort.*/
 
 
 
